@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Will Only Work On Redis-Server < 6.0
-# Tested On Redis-Server 4.0.14 Running On Ubuntu 23.10
+# Tested On Redis-Server 4.0.14 Running On Ubuntu Server 23.10
 # Creds: loganpkinfosec AKA Loki
 # Github: https://github.com/loganpkinfosec
 
