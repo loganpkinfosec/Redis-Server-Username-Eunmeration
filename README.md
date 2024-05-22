@@ -1,4 +1,4 @@
-# Redis-Server-Username-Eunmeration
+# redis-user-enum
 This tool is designed to assist penetration testers eunmerate potential users on a target Linux system where a Redis-Server is present by utilizing Redis's change directory feature. 
 
 # Example Usage
